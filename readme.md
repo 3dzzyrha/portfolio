@@ -1,1 +1,1 @@
-This is the starter code repo for Coding & Cocktails Intro to HTML session.
+This is 3dzzyrha's portfolio. Enjoy!
